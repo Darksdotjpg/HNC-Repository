@@ -1,0 +1,26 @@
+h1{
+    text-align: right;
+    font-size: 17px ;
+}
+
+h2{
+    text-align: center;
+    font-family: 'Gill Sans MT', 'Trebuchet MS';
+}
+
+h3{
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow';
+}
+
+p{
+    text-align: center;
+    
+}
+
+#slj{
+    width: 600px;
+    border: 15px solid #9b6c9a; /* it's a nice colour to me :) */
+    padding: 50px;
+    margin: 100px;
+}
